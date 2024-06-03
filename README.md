@@ -1,1 +1,1 @@
-# A3---Gest-o-e-qualidade-e-teste-de-software
+Gestão e qualidade de softwar
