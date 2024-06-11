@@ -1,1 +1,1 @@
-Gestão e qualidade de softwar
+Gestão e qualidade de software
